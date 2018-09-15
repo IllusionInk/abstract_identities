@@ -8,7 +8,8 @@ Generative Art technically refers to art that stems as a whole or inpart from an
 
 > Generative Identity Design is a concept that stems from Generative Art, wherein the identity system for a brand affords for variations in its depiction. Rather than having a set predefined identity mark, it is generated algorithmically for all users in system.
 
-**Based on this, we decided to develop 'Generative Identity Cards' for our juniors.**
+**Based on this, we developed 'Generative Identity Cards' for our juniors. 
+>> How would a face change to reflect one's details**
 
 ## Dataset
 
