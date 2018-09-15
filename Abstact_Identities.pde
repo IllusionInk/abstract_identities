@@ -22,7 +22,8 @@ void draw(){
 //function for plotting the viz.
 void viz(){
   
-  //reading data from the csv file
+  //reading data from the csv file. Accessing data by row and using row. operations 
+  //to store this local variables.
   for(int i = 0; i< table.getRowCount(); i = i+1){
   TableRow row = table.getRow(i);
   int age = row.getInt("Age");
