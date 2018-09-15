@@ -26,7 +26,8 @@ We also chose some variables to look at their work and hobbies:
 
 ## Concept Sketches
 
-Thoughts and process for the same has been documented (coming soon!)
+Thoughts and process for the same would be avaliable soon
+
 ![Sketch](https://github.com/IllusionInk/abstract_identities/blob/master/Assets/Sketches-01.jpg)
 
 ## Algorithm 
