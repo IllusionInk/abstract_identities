@@ -58,6 +58,9 @@ The key being, the eliipses for hobbies were measured from the shape's edge (usi
 
 - **Illustrator**: Design the glyphs and export as svgs. Assemble the final generative artworks.
 
+## To do
+-[] Explore noise() for mapping texture onto the surface.
+
 ## References
 
  - [Record function](https://processing.org/reference/beginRecord_.html)
