@@ -3,7 +3,7 @@
 > The Studio Entry ceremony at the National Institute of Design, is conducted for the incoming batch by their respective discipline seniors.  As a fun exercise , I tried exploring **Generative art** , with the idea of making something unique for each junior. 
 
 ### Idea
----
+--------
 Generative Art technically refers to art that stems as a whole or inpart from an autonomous system. [Wikipedia](https://en.wikipedia.org/wiki/Generative_art) The autonomous system here being an algorithm that could map certain variables onto a canvas, using a user defined key. The goal was to generate an artwork that is unique for each kid, although it belongs to the same parent family.
 
 > Generative Identity Design is a concept that stems from Generative Art, wherein the identity system for a brand affords for variations in its depiction. Rather than having a set predefined identity mark, it is generated algorithmically for all users in system.
@@ -51,10 +51,10 @@ The key being, the eliipses for hobbies were measured from the shape's edge (usi
 ### Tools
 ---
 - **Processing**: Used to generate the artwork with the aid of several existing functions in there.
-    - ***beginRecord(), endRecord()***: Generating individuals PDFs for the students.
-    - ***map()***: Mapping lat long of birthplace to cartesian co-ordinates.
-    - ***arc()***: Mapping date and month of birth to the arcs on a clock.
-    - ***pushMatrix(), popMatrix()***: Shifting the origin to required positions for mapping shapes.
+    - **beginRecord(), endRecord()**: Generating individuals PDFs for the students.
+    - **map()**: Mapping lat long of birthplace to cartesian co-ordinates.
+    - **arc()**: Mapping date and month of birth to the arcs on a clock.
+    - **pushMatrix(), popMatrix()**: Shifting the origin to required positions for mapping shapes.
 
 - **Illustrator**: Design the glyphs and export as svgs. Assemble the final generative artworks.
 
